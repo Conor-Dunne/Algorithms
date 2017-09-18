@@ -7,7 +7,7 @@ function multi() {
 
     if (i % 3 === 0 || i % 5 === 0) {
       sum = sum + i;
-      document.getElementById("result").innerHTML = sum;
+      return sum;
     }
 
 
