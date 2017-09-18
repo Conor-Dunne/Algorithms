@@ -1,5 +1,3 @@
-//document.getElementById("result").innerHTML = 5 + 6;
-
 var range = 1000;
 var sum = 0;
 
